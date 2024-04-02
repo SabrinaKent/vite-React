@@ -1,0 +1,16 @@
+.nav{
+    background-color: rgb(8, 8, 8);
+    height:60px;
+    /* width:700px; */
+    color: white;
+}
+
+.button{
+   padding:10px;
+   margin:10px;
+   margin-right:90px;
+   border: none;
+   background-color: bisque;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   cursor: pointer;
+}
